@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FF573AB-5228-4F75-AD96-A424A6669FA9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AceMasonryExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF6152F2BE2E15BF723E21F7E2EA828BDA350A51</key>
+		<string>https://github.com/loveace/AceMasonryExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AceMasonryExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF6152F2BE2E15BF723E21F7E2EA828BDA350A51</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/loveace/AceMasonryExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF6152F2BE2E15BF723E21F7E2EA828BDA350A51</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF6152F2BE2E15BF723E21F7E2EA828BDA350A51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AceMasonryExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
