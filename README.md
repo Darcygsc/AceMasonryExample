@@ -7,7 +7,7 @@ Example For Masonry
 ![image](./demo1.gif)
 
 #demo2
-3个label，实现label1靠左，label3靠右，label2紧靠label2。当增加文字时，最大化满足label3的显示，其次是label2，最后是label1。
+3个label，实现label1靠左，label3靠右，label2紧靠label3。当增加文字时，最大化满足label3的显示，其次是label2，最后是label1。
 
 ![image](./demo2.gif)
 
