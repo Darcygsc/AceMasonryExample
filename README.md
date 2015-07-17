@@ -12,6 +12,6 @@ Example For Masonry
 ![image](./demo2.gif)
 
 #demo3
-当屏幕宽度增加时，保持子view的宽度不变，而改变view直接的间隔。
+当屏幕宽度增加时，保持子view的宽度不变，而改变view之间的间隔。
 
 ![image](./demo3.gif)
